@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rizwan Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
+<img src="![image](https://github.com/sial059689/Rizwan-Ali/assets/112270212/bc38d0f9-41d4-4f4c-934c-d9012fd6db49)
+" align="right" width="400" alt="coding" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwan&label=Profile%20views&color=0e75b6&style=flat" alt="rizwan" /> </p>
 
 - 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **sial059689@gmail.com**
 
-- ⚡ Fun fact **I think I am Serious**
+- ⚡ Fun fact **I think I am Serious😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
