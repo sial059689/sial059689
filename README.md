@@ -1,6 +1,6 @@
+![logo](https://github.com/sial059689/Rizwan-Ali/blob/main/RA%20GH%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rizwan Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
-
 <img src="![image](https://github.com/sial059689/Rizwan-Ali/assets/112270212/bc38d0f9-41d4-4f4c-934c-d9012fd6db49)
 " align="right" width="400" alt="coding" />
 
